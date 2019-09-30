@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomNumberGenerator</string>
+    <string name="numberlabel">乱数</string>
+</resources>
