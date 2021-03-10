@@ -49,6 +49,7 @@ class MainActivity : AppCompatActivity() {
                     numberLabel.text = randomNumber.toString()
                     val adaptor = ArrayAdapter<Int>(this, android.R.layout.simple_list_item_1,numbers)
                     numberTable.adapter = adaptor
+                   // numberTable.scrollTo(0,numbers.count()*20)
 
                 }
             }
