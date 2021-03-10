@@ -1,6 +1,6 @@
-package com.example.p-x9.randomnumbergenerator
+package com.example.p_x9.randomnumbergenerator
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ArrayAdapter
 import android.widget.Button
@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         var numbers:ArrayList<Int> = arrayListOf<Int>()
         button.setOnClickListener {
             //ボタンの処理
-            var isValid = true
+            //var isValid = true
             val minfield = findViewById<TextView>(R.id.minField)
             val maxfield = findViewById<TextView>(R.id.maxField)
             val numberLabel = findViewById<TextView>(R.id.numberTextView)

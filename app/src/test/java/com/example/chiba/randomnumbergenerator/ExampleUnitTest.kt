@@ -1,4 +1,4 @@
-package com.example.p-x9.randomnumbergenerator
+package com.example.p_x9.randomnumbergenerator
 
 import org.junit.Test
 

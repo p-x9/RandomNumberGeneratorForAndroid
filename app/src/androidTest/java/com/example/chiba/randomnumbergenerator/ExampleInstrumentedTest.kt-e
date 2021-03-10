@@ -1,4 +1,4 @@
-package com.example.p-x9.randomnumbergenerator
+package com.example.p_x9.randomnumbergenerator
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.example.p-x9.randomnumbergenerator", appContext.packageName)
+        assertEquals("com.example.p_x9.randomnumbergenerator", appContext.packageName)
     }
 }

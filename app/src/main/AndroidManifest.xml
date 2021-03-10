@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.p-x9.randomnumbergenerator">
+    package="com.example.p_x9.randomnumbergenerator">
 
     <application
         android:allowBackup="true"
